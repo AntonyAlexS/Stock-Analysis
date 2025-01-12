@@ -9,7 +9,7 @@ def get_db_connection():
         host="gateway01.us-west-2.prod.aws.tidbcloud.com",
         port=4000,
         user="4YaRT6wy6Sm9Xtc.root",
-        password="Xx9YwpMapzUeFzNA",
+        password="Password",
         database="stock_market",
         ssl_verify_cert=True,
         ssl_verify_identity=True,
