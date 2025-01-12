@@ -1,4 +1,4 @@
-Stock Market Analysis Dashboard using Streamlit & MySQL
+Stock Market Analysis Dashboard using Streamlit & SQL
 
 This repository contains a Stock Market Analysis Dashboard built using Streamlit and MySQL (TiDB Cloud). The dashboard fetches stock market data, processes it, and visualizes key insights such as volatility analysis, cumulative returns, sector performance, stock price correlation, and monthly gainers & losers.
 
